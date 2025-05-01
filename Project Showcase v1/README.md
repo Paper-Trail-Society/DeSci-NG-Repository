@@ -27,3 +27,4 @@ For more information about the Project Showcase initiative, please reach out via
 - [On Twitter(X)](https://x.com/DeSci_NG)
 - [On LinkedIn](https://www.linkedin.com/company/desci-ng/)
 - [On Instagram](https://www.instagram.com/desci__ng/) 
+- [On YouTube](https://www.youtube.com/@DeSci_NG) 
