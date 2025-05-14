@@ -1,4 +1,4 @@
-# Project Showcase v1
+# 📂 Project Showcase v1
 
 ## About
 The Project Showcase initiative by DeSci NG is dedicated to supporting and incubating innovative research projects from final-year and research students. We believe that research should be more than just a degree requirement - it should be a journey of discovery, innovation, and invention that contributes to societal progress.
