@@ -1,4 +1,4 @@
-# 📂 Contributors
+# 📂 Contributor Spotlight
 
 This folder features projects shared by contributors who believe in the mission of making research open, relevant, and impactful.
 
