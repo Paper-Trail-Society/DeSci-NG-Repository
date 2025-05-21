@@ -1,4 +1,4 @@
-# DeSci-NG Repository
+# DeSci NG Repository
 
 The official repository for DeSci NG, Nigeria's first decentralised research archive. This repository contains our various programs and initiatives, including: 
 - Project Showcase: An initiative for student research incubation and support
